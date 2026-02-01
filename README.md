@@ -2,13 +2,13 @@
 
 ### Computer and AI Engineering Student | Coffee Lover ☕
 
-[![Profile Views](https://komarev.com/ghpvc/?user=your-github-username&color=blue)](https://github.com/your-github-username)
+[![Profile Views](https://komarev.com/ghpvc/?user=your-github-username&color=blue)](https://github.com/OmarFarouk-Code)
 
 ## 🚀 About Me
 I am a **Computer and AI Engineering student** at Ain Shams University. I am passionate about **Software Engineering, AI, and Digital Logic Design**. Currently, I am mastering **Frontend Development** through the Almdrasa diploma.
 
 <p align="right">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXZueXpueXpueXpueXpueXpueXpueXpueXpueXpueXpueSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1QHUR4YpG9U1hT0/giphy.gif" width="300" />
+  <img src="https://camo.githubusercontent.com/4a2458affa2ef4272b8ffd677cd99aa1f4e02750cf1d6ada6f1736cd7b25966a/68747470733a2f2f632e74656e6f722e636f6d2f5f444f426a6e4773705941414141414d2f636f64652d636f64696e672e676966" width="300" />
 </p>
 
 ## 💻 Tech Stack & Tools
@@ -28,12 +28,3 @@ I am a **Computer and AI Engineering student** at Ain Shams University. I am pas
 * 📺 **Show Enthusiast:** I spend my downtime catching up on my favorite series.
 * ☕ **Coffee Lover:** Fueling my coding sessions one cup at a time.
 * ⚡ **Fun Fact:** I love turning complex logic into clean, visual infographics.
-
-```javascript
-(function repeat() {
-    eat();
-    sleep();
-    code(); // Preferred: VS Code & Visual Studio
-    watchShows(); 
-    repeat();
-})();
