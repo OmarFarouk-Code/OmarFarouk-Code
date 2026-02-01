@@ -2,7 +2,6 @@
 
 ### Computer and AI Engineering Student | Coffee Lover ☕
 
-[![Profile Views](https://komarev.com/ghpvc/?user=your-github-username&color=blue)](https://github.com/OmarFarouk-Code)
 
 ## 🚀 About Me
 I am a **Computer and AI Engineering student** at Ain Shams University. I am passionate about **Software Engineering, AI, and Digital Logic Design**. Currently, I am mastering **Frontend Development** through the Almdrasa diploma.
