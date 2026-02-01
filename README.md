@@ -4,7 +4,7 @@
 
 
 ## 🚀 About Me
-I am a **Computer and AI Engineering student** at Ain Shams University. I am passionate about **Software Engineering, AI, and Digital Logic Design**. Currently, I am mastering **Frontend Development** through the Almdrasa diploma.
+I am a Computer and AI Engineering student at Ain Shams University, pursuing a dual-degree program with the University of East London. My academic journey began at the Egypt British International School, where I developed a strong foundation in technology. I am passionate about Software Engineering, AI, and Digital Logic Design. Currently, I am mastering Frontend Development through the Almdrasa diploma.
 
 <p align="right">
   <img src="https://camo.githubusercontent.com/4a2458affa2ef4272b8ffd677cd99aa1f4e02750cf1d6ada6f1736cd7b25966a/68747470733a2f2f632e74656e6f722e636f6d2f5f444f426a6e4773705941414141414d2f636f64652d636f64696e672e676966" width="300" />
