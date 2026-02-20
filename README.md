@@ -78,14 +78,14 @@ class Omar:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=OmarFarouk&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0f0c29&title_color=A78BFA&icon_color=A78BFA&text_color=ffffff&rank_icon=github"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmarFarouk&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0f0c29&title_color=A78BFA&text_color=ffffff"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=OmarFarouk-Code&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0f0c29&title_color=A78BFA&icon_color=A78BFA&text_color=ffffff&rank_icon=github"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmarFarouk-Code&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0f0c29&title_color=A78BFA&text_color=ffffff"/>
 
 </div>
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=OmarFarouk&theme=midnight-purple&hide_border=true&background=0f0c29&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA)
+![GitHub Streak](https://streak-stats.demolab.com?user=OmarFarouk-Code&theme=midnight-purple&hide_border=true&background=0f0c29&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA)
 
 </div>
 
@@ -122,9 +122,8 @@ class Omar:
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=OmarFarouk&style=for-the-badge&color=A78BFA&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=OmarFarouk-Code&style=for-the-badge&color=A78BFA&label=Profile+Views)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
 
 </div>
-
