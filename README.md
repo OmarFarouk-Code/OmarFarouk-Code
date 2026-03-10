@@ -62,13 +62,15 @@ class Omar:
 
 <div align="center">
 
-| Project | Description | Stack |
-|---|---|---|
-| 📚 **Library Management System** | OOP-based library with role-based access, inventory & borrowing system | `Java` |
-| 💊 **Smart Pharmacy System** | Full pharmacy ops — billing, inventory, low-stock alerts & data persistence | `C++` |
-| ☀️ **Weather Forecast App** | Real-time GUI weather app with metric units & error handling | `Python` `tkinter` |
-| 🌍 **PyCurrency Converter** | Live CLI currency converter with market rate preview | `Python` `Fixer API` |
-| ❌⭕ **Tic Tac Toe Pro** | Polished GUI game with score tracking & winner highlighting | `Python` `tkinter` |
+| Project | Description | Highlights | Stack |
+|---|---|---|---|
+| 🎓 **[University Course Enrollment System](https://github.com/OmarFarouk-Code/University-Course-Enrollment)** | Full enrollment platform with student & instructor registration, capacity-enforced course management, and bidirectional entity sync | Inheritance hierarchy · Duplicate ID prevention · Multi-role CLI menu | `Java` `OOP` |
+| 🏧 **[ATM Simulator](https://github.com/OmarFarouk-Code/ATM-Simulator)** | Layered ATM system with PIN authentication, fixed & custom withdrawals, deposits, and infinite multi-session support | MVC-style separation · Bordered console UI · Full input validation | `Java` `OOP` |
+| 🏋️ **[Gym Management System](https://github.com/OmarFarouk-Code/Gym-Management-System)** | Gym ops platform managing members, trainers, plan billing, trainer assignments, and live overdue membership alerts | Interface-driven design · Enum membership plans · Date-aware expiry · ANSI color UI | `Java` `OOP` `Enum` |
+| 📚 **[Library Management System](https://github.com/OmarFarouk-Code/Library-Management-System)** | OOP-based library with role-based access, inventory tracking, and borrowing system | Role-based logic · Borrowing flow · Inventory control | `Java` |
+| 💊 **[Smart Pharmacy System](https://github.com/OmarFarouk-Code/Smart-Pharmacy-System)** | Full pharmacy operations — billing, inventory management, low-stock alerts & file-based data persistence | Low-stock alerts · File persistence · Billing engine | `C++` |
+| ☀️ **[Weather Forecast App](https://github.com/OmarFarouk-Code/Weather-Forecast-App)** | Real-time GUI weather app with live API data, metric unit support & error handling | Live weather API · tkinter GUI · Error handling | `Python` `tkinter` |
+| 🌍 **[PyCurrency Converter](https://github.com/OmarFarouk-Code/PyCurrency-Converter)** | Live CLI currency converter with real-time exchange rates and market rate preview | Fixer API · Live rates · Clean CLI output | `Python` `Fixer API` |
 
 </div>
 
