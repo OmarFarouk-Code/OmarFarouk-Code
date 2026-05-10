@@ -64,6 +64,7 @@ class Omar:
 
 | Project | Description | Highlights | Stack |
 |---|---|---|---|
+| 🏨 **[Hotel Reservation System](https://github.com/OmarFarouk-Code/Hotel-Reservation-System)** | Full-scale team backend system for hotel operations — room management, guest bookings, payment processing, and admin controls across a multi-class architecture | Interface-driven design (`Manageable`, `Payable`) · Static shared database · RoomType & Amenity modeling · 5-person team integration | `Java` `OOP` `Interfaces` |
 | 🎓 **[University Course Enrollment System](https://github.com/OmarFarouk-Code/University-Course-Enrollment)** | Full enrollment platform with student & instructor registration, capacity-enforced course management, and bidirectional entity sync | Inheritance hierarchy · Duplicate ID prevention · Multi-role CLI menu | `Java` `OOP` |
 | 🏧 **[ATM Simulator](https://github.com/OmarFarouk-Code/ATM-Simulator)** | Layered ATM system with PIN authentication, fixed & custom withdrawals, deposits, and infinite multi-session support | MVC-style separation · Bordered console UI · Full input validation | `Java` `OOP` |
 | 🏋️ **[Gym Management System](https://github.com/OmarFarouk-Code/Gym-Management-System)** | Gym ops platform managing members, trainers, plan billing, trainer assignments, and live overdue membership alerts | Interface-driven design · Enum membership plans · Date-aware expiry · ANSI color UI | `Java` `OOP` `Enum` |
